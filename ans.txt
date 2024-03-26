@@ -1,0 +1,31 @@
+instance10-1.tsp 1537.708
+
+instance10-2.tsp 1590.006
+
+instance10-3.tsp 1793.458
+
+instance10-4.tsp 1437.398
+
+instance10-5.tsp 1600.916
+
+instance20-1.tsp 2088.112
+
+instance20-2.tsp 2152.878
+
+instance20-3.tsp 2223.394
+
+instance20-4.tsp 2360.647
+
+instance20-5.tsp 2478.843
+
+a280.tsp 2586.770
+
+bier127.tsp 118293.524
+
+kroA150.tsp 26524.863
+
+kroA200.tsp 29369.407
+
+lin318.tsp 42042.535
+
+st70.tsp 677.110
